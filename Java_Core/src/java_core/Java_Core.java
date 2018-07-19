@@ -17,6 +17,7 @@ public class Java_Core {
     public static void main(String[] args) {
     System.out.println("Love you babe");
     System.out.println("Love you very much");
+    System.out.println("Love you very very much");
     }
     
 }
